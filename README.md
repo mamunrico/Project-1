@@ -6,7 +6,7 @@
 
 ### Team Members: Minh Tran, Syed Naqvi, Rodrigo Guazzelli, Hsuan Liu, Abdullah Ma
 
-![Teslahouse](/Images/teslahouse.jpg)
+https://raw.githubusercontent.com/ShozabNaqvi/Your-Next-Investment-/main/Images/teslahouse.jpg
 
 One of the world’s biggest problems is a way to solve the Climate Crisis and Clean Energy.
 
